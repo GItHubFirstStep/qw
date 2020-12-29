@@ -19,7 +19,7 @@ namespace QW
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Q qq = new Q();//测试同步2
+            Q qq = new Q();//77
             qq.Show();//获取6
         }
     }
