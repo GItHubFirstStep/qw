@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace QW
 {
-    public partial class Form1 : Form
+    public partial class Q : Form
     {
-        public Form1()
+        public Q()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Q qq = new Q();
-            qq.Show();
         }
     }
 }
