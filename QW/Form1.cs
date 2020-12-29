@@ -21,5 +21,6 @@ namespace QW
         {
             Q qq = new Q();//测试同步2
             qq.Show();//这次合使用推送
+
     }
 }
